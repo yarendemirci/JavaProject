@@ -6,7 +6,7 @@ public class TaksimetreHesaplayanProgram {
         Scanner input=new Scanner(System.in);
         System.out.println("Gideceğiniz kmyi giriniz:");
         km=input.nextInt();
-
+        //denendi.
         price=perKm*km;
         price+=StartPrice;
 
