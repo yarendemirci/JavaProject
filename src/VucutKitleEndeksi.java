@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class VucutKitleEndeksi {
-    //second commit github
     public static void main(String[] args) {
         double kilo,boy;
         double indeks;
