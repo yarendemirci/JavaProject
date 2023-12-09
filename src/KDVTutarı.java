@@ -14,10 +14,7 @@ public class KDVTutarı {
         System.out.println("KDV oranı: " +kdvOrani);
         System.out.println("KDV tutarı: " +kdvTutari);
         System.out.println("KDVli tutarı: "+kdvliTutar);
-
-
-
-
+        
             }
 
 }
