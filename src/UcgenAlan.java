@@ -9,8 +9,8 @@ public class UcgenAlan {
         a = input.nextInt();
         System.out.println("Üçgenin diğer kenarını giriniz:");
         b = input.nextInt();
-        alan=(a*b)/2;
-        System.out.println("Üçgenin alanı:" +alan);
+        alan = (a * b) / 2;
+        System.out.println("Üçgenin alanı:" + alan);
     }
 }
 
