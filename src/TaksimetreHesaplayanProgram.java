@@ -13,9 +13,6 @@ public class TaksimetreHesaplayanProgram {
         price= price>=20 ? price : 20;
 
         System.out.println("TAXİ price: " +price);
-
-
-
     }
 
     }
